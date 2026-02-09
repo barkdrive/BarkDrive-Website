@@ -2347,11 +2347,6 @@ hr {
     color: white;               /* make text readable */
     padding: 2em;               /* add some space inside */
 }
-/* Slightly nudge all text in the banner section to the right */
-#banner .content {
-    padding-left: 4em;  /* small nudge to the right */
-    text-align: left;    /* keep text left-aligned */
-}
 /* Change text color in banner section */
 #banner h1,
 #banner h2,
